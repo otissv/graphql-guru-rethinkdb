@@ -1,5 +1,5 @@
 {
-  "name": "@graphql-guru/rethinkdb",
+  "name": "graphql-guru-rethinkdb",
   "version": "0.0.1",
   "description": "RethinkDB resolver modules fro GraphQL Guru",
   "main": "dist/rethinkdb-database",
